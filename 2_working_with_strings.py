@@ -26,7 +26,10 @@ print("Lowercase:", phrase.lower())  # Output: python is fun!
 
 # Convert all characters to uppercase
 print("Uppercase:", phrase.upper())  # Output: PYTHON IS FUN!
-
+name = "christian"
+#upper case
+#lower case
+#print out
 # Check if all characters are uppercase
 print("Is Uppercase?", phrase.isupper())  # Output: False
 
