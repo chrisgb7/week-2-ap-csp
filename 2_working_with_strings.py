@@ -32,7 +32,7 @@ name = "christian"
 #print out
 # Check if all characters are uppercase
 print("Is Uppercase?", phrase.isupper())  # Output: False
-
+print("name" , name.isuppper)
 # Find the length of the string
 print("Length of phrase:", len(phrase))  # Output: 14
 
