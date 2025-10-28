@@ -50,8 +50,14 @@ print(chicago_mayor[0])
 print(chicago_mayor[4])
 print(chicago_mayor[-1])
 # # Indexing: Access characters by position (0-based index)
-# print("First character:", phrase[0])  # Output: P
-# print("Last character:", phrase[-1])  # Output: !
+print("First character:", phrase[0])  # Output: P
+print("Last character:", phrase[-1])  # Output: !
+phrase3 = "Supercagifragilstic"
+#uppercase
+#slice super out of it into a different variable
+#slice cagi out of phrase3 into its own variable
+#print out the last letter 
+
 
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
