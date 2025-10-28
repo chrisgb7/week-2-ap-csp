@@ -40,6 +40,11 @@ declaration_of_independence = "The unanimous Declaration of the thirteen united 
 # # 3. Indexing and Slicing
 # # ----------------------------------------
 chicago_mayor = "Johnson"
+#slicing
+print(chicago_mayor[0:4])
+#first num 0 is inclusive
+#last numbeer is exclusive
+print(chicago_mayor[4:])
 print(len(chicago_mayor))
 print(chicago_mayor[0])
 print(chicago_mayor[4])
