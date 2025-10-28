@@ -4,8 +4,8 @@
 # ----------------------------------------
 
 # Strings are sequences of characters enclosed in quotes (' ' or " ")
-greeting = "Hello"
-name = "World"
+greeting = "Hello" #string data type
+name = "World" #string data type
 
 # ----------------------------------------
 # Basic String Operations
