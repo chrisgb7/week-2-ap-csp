@@ -31,9 +31,12 @@ print(f"{first_name} is {age} years old. Fav color {favorite_color}")
 
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
-
-
-
+name = input("Enter your name:")
+name1 = input("Enter your last name:")
+print(name + name1)
+num3 = int(input(" input fav number"))
+num4 = int(input("age"))
+print(num3+num4)
 
 # ⚙️ Step 5: Final Challenge (combine it all)
 # Use math and strings together
