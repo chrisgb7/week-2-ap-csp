@@ -27,7 +27,8 @@ print(f"{first_name} is {age} years old. Fav color {favorite_color}")
 
 #  Step 3: Math Practice
 # Use arithmetic operators with your favorite number
-
+div_result = 10 / 2
+print("Division (10 / 2):", div_result)
 
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
@@ -40,3 +41,7 @@ print(num3+num4)
 
 # ⚙️ Step 5: Final Challenge (combine it all)
 # Use math and strings together
+string6 = "hey!"
+string7 = " baby"
+result = string6 + stringr7
+print(result)  # Output: Hello World
